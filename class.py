@@ -53,3 +53,5 @@ print(f"Остаток инсулина: {Infected.insulin}")
 print(f"Остаток до приема: {Infected.ibuprofen}")
 Sidorova.take_ibuprofen()
 print(f"Остаток полсе приема: {Infected.ibuprofen}")
+
+print('hello!')
